@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+models/
+.ipynb_checkpoints/
+__pycache__
